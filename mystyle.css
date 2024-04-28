@@ -62,6 +62,9 @@ padding: 0;
     
   }
   .gallery-cell image{
+    width:auto;
+    height: auto;
+    max-width: none;
   }
   .gallery-cell img {
     width:auto;
@@ -80,10 +83,14 @@ padding: 0;
   .p-valor{
     font-size: 15px;
     color: hsl(0, 0%, 0%);
+    margin-left: 5px;
   }
   .content-p{
     width: 190px;
     height: 30pxpx;
     background-color: #ffffff;
     margin-top: 10px;
+    
   }
+  
+  
