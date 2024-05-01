@@ -17,7 +17,7 @@ padding: 0;
 }
 .content{
   background-color: #EEE;
-  width: 1030px;
+  width: 1300px;
   height: 350px;
   align-items: center;
   display: flex;
@@ -25,7 +25,7 @@ padding: 0;
 }
 .carrossel-content{
     
-    width: 1000px;
+    width: 1300px;
     height: 350px;
     margin-left: 20px;
     margin-right: 20px;
@@ -44,7 +44,7 @@ padding: 0;
   }
   
   .gallery-cell {
-    width: 190px;
+    width: 240px;
     height: 250px;
     margin-right: 10px;
     background-size: 50%;
@@ -60,6 +60,7 @@ padding: 0;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover ;
+
   }
   .content-p-Year-of-release p {
     width: 40%; 
