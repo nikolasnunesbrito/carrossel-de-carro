@@ -101,7 +101,7 @@ padding: 0;
   
   
   .flickity-prev-next-button .arrow {
-    fill: rgb(52, 131, 250) !important; /* Muda a cor da seta para azul */
+    fill: rgb(52, 131, 250) !important; 
   }
   .flickity-prev-next-button.previous { left: -40px !important; }
 .flickity-prev-next-button.next { right: -40px !important; }
